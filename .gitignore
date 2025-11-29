@@ -1,3 +1,9 @@
 .trae/
 .env
 node_modules/
+dist/
+coverage/
+*.log
+public/uploads/
+.DS_Store
+Thumbs.db
